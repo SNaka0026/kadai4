@@ -9,6 +9,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Permission Setting
-      run: chmod +x script.sh test_script.sh
+      run: chmod +x script.sh test_script2.sh
     - name: Test Run
       run: ./test_script2.sh
