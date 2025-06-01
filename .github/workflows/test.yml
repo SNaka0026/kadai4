@@ -11,4 +11,4 @@ jobs:
     - name: Permission Setting
       run: chmod +x script.sh test_script.sh
     - name: Test Run
-      run: ./test_script.sh
+      run: ./test_script22.sh
